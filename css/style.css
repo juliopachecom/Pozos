@@ -1,0 +1,36 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+   
+      background-color: #835959;
+    }
+    
+
+  h1{
+    color: #d6141a !important;
+}
+
+.hero{
+
+  background-color: #cd8989;
+}
+
+
+.navbar{
+background-color: #f6d8d8;
+}
+  
+.table-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.table-container .table {
+  max-width: 800px;
+}
+
+
+  
